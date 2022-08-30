@@ -1,5 +1,5 @@
-ThisBuild / organization := "com.example"
-ThisBuild / scalaVersion := "3.0.0"
+ThisBuild / organization := "io.github.sjmyuan"
+ThisBuild / scalaVersion := "3.1.3"
 
 lazy val root = (project in file(".")).settings(
   name := "design-pattern-in-fp",
